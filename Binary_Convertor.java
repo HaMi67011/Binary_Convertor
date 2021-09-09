@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//your code goes here
+
 public class Converter{
     public static String toBinary (int num){
         String binary="";
